@@ -1,0 +1,10 @@
+C:\school\SchoolSystem\Model1\bin\Debug\Model1.dll.config
+C:\school\SchoolSystem\Model1\bin\Debug\Model1.dll
+C:\school\SchoolSystem\Model1\bin\Debug\Model1.pdb
+C:\school\SchoolSystem\Model1\bin\Debug\EntityFramework.dll
+C:\school\SchoolSystem\Model1\bin\Debug\EntityFramework.xml
+C:\school\SchoolSystem\Model1\obj\Debug\Model1.csprojAssemblyReference.cache
+C:\school\SchoolSystem\Model1\obj\Debug\Model1.csproj.CoreCompileInputs.cache
+C:\school\SchoolSystem\Model1\obj\Debug\Model1.csproj.CopyComplete
+C:\school\SchoolSystem\Model1\obj\Debug\Model1.dll
+C:\school\SchoolSystem\Model1\obj\Debug\Model1.pdb

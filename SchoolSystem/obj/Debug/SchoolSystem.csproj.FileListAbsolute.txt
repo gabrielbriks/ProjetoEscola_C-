@@ -1,0 +1,15 @@
+E:\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+E:\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\school\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojAssemblyReference.cache
+C:\school\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\school\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+C:\school\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+C:\school\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll.config
+C:\school\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+C:\school\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+C:\school\SchoolSystem\SchoolSystem\bin\EntityFramework.dll
+C:\school\SchoolSystem\SchoolSystem\bin\EntityFramework.xml
+C:\school\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csproj.CopyComplete

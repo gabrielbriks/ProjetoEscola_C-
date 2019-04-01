@@ -1,0 +1,9 @@
+C:\school\Cadastro Alunos\Cadastro.Interface\bin\Debug\Cadastro.Interface.dll
+C:\school\Cadastro Alunos\Cadastro.Interface\bin\Debug\Cadastro.Interface.pdb
+C:\school\Cadastro Alunos\Cadastro.Interface\obj\Debug\Cadastro.Interface.csprojAssemblyReference.cache
+C:\school\Cadastro Alunos\Cadastro.Interface\obj\Debug\Cadastro.Interface.csproj.CoreCompileInputs.cache
+C:\school\Cadastro Alunos\Cadastro.Interface\obj\Debug\Cadastro.Interface.csproj.CopyComplete
+C:\school\Cadastro Alunos\Cadastro.Interface\obj\Debug\Cadastro.Interface.dll
+C:\school\Cadastro Alunos\Cadastro.Interface\obj\Debug\Cadastro.Interface.pdb
+C:\school\Cadastro Alunos\Cadastro.Interface\bin\Debug\Cadastro.Entity.dll
+C:\school\Cadastro Alunos\Cadastro.Interface\bin\Debug\Cadastro.Entity.pdb

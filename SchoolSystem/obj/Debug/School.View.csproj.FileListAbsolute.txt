@@ -1,0 +1,33 @@
+C:\school\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll.config
+C:\school\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+C:\school\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+C:\school\SchoolSystem\SchoolSystem\bin\EntityFramework.dll
+C:\school\SchoolSystem\SchoolSystem\bin\EntityFramework.xml
+C:\school\SchoolSystem\SchoolSystem\obj\Debug\School.View.csproj.CoreCompileInputs.cache
+C:\school\SchoolSystem\SchoolSystem\obj\Debug\School.View.csproj.CopyComplete
+C:\school\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+C:\school\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+C:\school\Cadastro Alunos\SchoolSystem\bin\SchoolSystem.dll.config
+C:\school\Cadastro Alunos\SchoolSystem\bin\SchoolSystem.dll
+C:\school\Cadastro Alunos\SchoolSystem\bin\SchoolSystem.pdb
+C:\school\Cadastro Alunos\SchoolSystem\bin\EntityFramework.dll
+C:\school\Cadastro Alunos\SchoolSystem\bin\EntityFramework.xml
+C:\school\Cadastro Alunos\SchoolSystem\obj\Debug\School.View.csprojAssemblyReference.cache
+C:\school\Cadastro Alunos\SchoolSystem\obj\Debug\School.View.csproj.CoreCompileInputs.cache
+C:\school\Cadastro Alunos\SchoolSystem\obj\Debug\School.View.csproj.CopyComplete
+C:\school\Cadastro Alunos\SchoolSystem\obj\Debug\SchoolSystem.dll
+C:\school\Cadastro Alunos\SchoolSystem\obj\Debug\SchoolSystem.pdb
+C:\school\Cadastro Alunos\SchoolSystem\bin\Cadastro.Entity.dll
+C:\school\Cadastro Alunos\SchoolSystem\bin\Cadastro.Interface.dll
+C:\school\Cadastro Alunos\SchoolSystem\bin\Cadastro.Interface.pdb
+C:\school\Cadastro Alunos\SchoolSystem\bin\Cadastro.Entity.pdb
+C:\school\Cadastro Alunos\SchoolSystem\bin\Cadastro.Presenter.dll
+C:\school\Cadastro Alunos\SchoolSystem\bin\Cadastro.Presenter.pdb
+C:\school\Cadastro Alunos\SchoolSystem\bin\Cadastro.Business.dll
+C:\school\Cadastro Alunos\SchoolSystem\bin\Database.dll
+C:\school\Cadastro Alunos\SchoolSystem\bin\Cadastro.Business.pdb
+C:\school\Cadastro Alunos\SchoolSystem\bin\Cadastro.Business.dll.config
+C:\school\Cadastro Alunos\SchoolSystem\bin\Database.pdb
+C:\school\Cadastro Alunos\SchoolSystem\bin\Database.dll.config
+C:\school\Cadastro Alunos\SchoolSystem\bin\EntityFramework.SqlServer.dll
+C:\school\Cadastro Alunos\SchoolSystem\bin\EntityFramework.SqlServer.xml

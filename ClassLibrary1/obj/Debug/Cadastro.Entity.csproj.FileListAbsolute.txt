@@ -1,0 +1,6 @@
+C:\school\Cadastro Alunos\ClassLibrary1\obj\Debug\Cadastro.Entity.csprojAssemblyReference.cache
+C:\school\Cadastro Alunos\ClassLibrary1\obj\Debug\Cadastro.Entity.csproj.CoreCompileInputs.cache
+C:\school\Cadastro Alunos\ClassLibrary1\bin\Debug\Cadastro.Entity.dll
+C:\school\Cadastro Alunos\ClassLibrary1\bin\Debug\Cadastro.Entity.pdb
+C:\school\Cadastro Alunos\ClassLibrary1\obj\Debug\Cadastro.Entity.dll
+C:\school\Cadastro Alunos\ClassLibrary1\obj\Debug\Cadastro.Entity.pdb

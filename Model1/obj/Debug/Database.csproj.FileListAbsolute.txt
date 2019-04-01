@@ -1,0 +1,12 @@
+C:\school\Cadastro Alunos\Model1\bin\Debug\Database.dll.config
+C:\school\Cadastro Alunos\Model1\bin\Debug\Database.dll
+C:\school\Cadastro Alunos\Model1\bin\Debug\Database.pdb
+C:\school\Cadastro Alunos\Model1\bin\Debug\EntityFramework.dll
+C:\school\Cadastro Alunos\Model1\bin\Debug\EntityFramework.SqlServer.dll
+C:\school\Cadastro Alunos\Model1\bin\Debug\EntityFramework.xml
+C:\school\Cadastro Alunos\Model1\bin\Debug\EntityFramework.SqlServer.xml
+C:\school\Cadastro Alunos\Model1\obj\Debug\Database.csprojAssemblyReference.cache
+C:\school\Cadastro Alunos\Model1\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\school\Cadastro Alunos\Model1\obj\Debug\Database.csproj.CopyComplete
+C:\school\Cadastro Alunos\Model1\obj\Debug\Database.dll
+C:\school\Cadastro Alunos\Model1\obj\Debug\Database.pdb

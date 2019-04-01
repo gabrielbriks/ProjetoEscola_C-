@@ -1,0 +1,17 @@
+C:\school\Cadastro Alunos\Cadastro.Business\obj\Debug\Cadastro.Business.csprojAssemblyReference.cache
+C:\school\Cadastro Alunos\Cadastro.Business\obj\Debug\Cadastro.Business.csproj.CoreCompileInputs.cache
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\Cadastro.Business.dll.config
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\Cadastro.Business.dll
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\Cadastro.Business.pdb
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\EntityFramework.dll
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\EntityFramework.xml
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\school\Cadastro Alunos\Cadastro.Business\obj\Debug\Cadastro.Business.csproj.CopyComplete
+C:\school\Cadastro Alunos\Cadastro.Business\obj\Debug\Cadastro.Business.dll
+C:\school\Cadastro Alunos\Cadastro.Business\obj\Debug\Cadastro.Business.pdb
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\Cadastro.Entity.dll
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\Database.dll
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\Cadastro.Entity.pdb
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\Database.pdb
+C:\school\Cadastro Alunos\Cadastro.Business\bin\Debug\Database.dll.config
